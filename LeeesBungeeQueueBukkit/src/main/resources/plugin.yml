@@ -1,0 +1,6 @@
+name: LeeesBungeeQueueBukkit
+version: 1.0.0
+main: Leees.Bungee.Queue.Bukkit.Main
+authors: [Nate, Legault]
+description: Bukkit companion plugin for LeeesBungeeQueue
+website: https://www.6b6t.org
